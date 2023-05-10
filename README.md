@@ -17,10 +17,10 @@ and clearly mention this in your paper.
 # How to start a simulation
 Download the whole project to your local worksation.
 ## Block-box unsupervised CNN for hybrid beamformining design
-Run the 'BB_main.py' in the file \texit{BB_CNN_unsupervised} and you will get the data that can be compared to other schemes.
+Run the 'BB_main.py' in the file *BB_CNN_unsupervised* and you will get the data that can be compared to other schemes.
 
 ## Deep unfolding for  hybrid beamformining design
-Run the 'main.py' in the file \textit{Deep_unfolding} and you will get the data that can be compared to other schemes.
+Run the 'main.py' in the file *Deep_unfolding* and you will get the data that can be compared to other schemes.
 
 
 
