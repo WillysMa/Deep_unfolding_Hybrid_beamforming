@@ -14,12 +14,12 @@ If you are using the simulator (or parts of it) for a publication, then you *mus
 
 and clearly mention this in your paper.
 
-### How to start a simulation
+# How to start a simulation
 Download the whole project to your local worksation.
-# Block-box unsupervised CNN for hybrid beamformining design
+## Block-box unsupervised CNN for hybrid beamformining design
 Run the 'BB_main.py' in the file \texit{BB_CNN_unsupervised} and you will get the data that can be compared to other schemes.
 
-# Deep unfolding for  hybrid beamformining design
+## Deep unfolding for  hybrid beamformining design
 Run the 'main.py' in the file \textit{Deep_unfolding} and you will get the data that can be compared to other schemes.
 
 
