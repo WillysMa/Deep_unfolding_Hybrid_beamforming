@@ -12,7 +12,7 @@ If you find simulator (or parts of it) helpful for your publication, please kind
 
 [1] N. T. Nguyen, M. Ma, N. Shlezinger, Y. C. Eldar, A. L. Swindlehurst, and M. Juntti, “Deep unfolding hybrid beamforming designs for THz massive MIMO systems,” arXiv preprint arXiv:2302.12041, 2023.[Online]. Available:https://arxiv.org/abs/2302.12041.
 
-and clearly mention this in your paper.
+
 
 # How to start a simulation
 Download the whole project to your local worksation.
