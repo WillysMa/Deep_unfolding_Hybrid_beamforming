@@ -6,8 +6,6 @@ e-mail: {mengyuan.ma, nhan.nguyen}@oulu.fi
 
 If you are thinking of contacting us, please do not e-mail the author to ask for download instructions, installation guidelines, or the simulator itself. The simulator itself is well-documented and provides the essential information about the code. Note that we will NOT help to debug user-generated code that was not included in the provided software package. If, however, you notice a bug in our code, please be so kind to contact the Author.
 
-The software package is supplied "as is," without any accompanying support services, maintenance, or future updates. We make no warranties, explicit or implicit, that the software contained in this package is free of error or that it will meet your requirements for any particular application. It should not be relied on for any purpose where incorrect results could result in loss of property, personal injury, liability or whatsoever. If you do use our software for any such purpose, it is at your own risk. The authors disclaim all liability of any kind, either direct or consequential, resulting from your use of these programs.
-
 If you find simulator (or parts of it) helpful for your publication, please kindly cite our paper:
 
 [1] N. T. Nguyen, M. Ma, N. Shlezinger, Y. C. Eldar, A. L. Swindlehurst, and M. Juntti, “Deep unfolding hybrid beamforming designs for THz massive MIMO systems,” arXiv preprint arXiv:2302.12041, 2023.[Online]. Available:https://arxiv.org/abs/2302.12041.
